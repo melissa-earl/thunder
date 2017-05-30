@@ -19,8 +19,8 @@ analytics: UA-83979019-1
 disqus-shortname: webjeda-demo
 
 # Color schemes
-color-1: '#3B97D3'
-color-2: '#26B99A'
+color-1: '#00a7df'
+color-2: '#c0392b'
 
 # Author pictre 100x100 --> keep it inside img folder.
 author-image: 'author.jpg'
