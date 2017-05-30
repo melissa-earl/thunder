@@ -23,9 +23,9 @@ color-1: '#00a7df'
 color-2: '#c0392b'
 
 # Author pictre 100x100 --> keep it inside img folder.
-author-image: 'author.jpg'
-author-name: 'John Doe' 
-author-about: 'John Doe should be described in a very few words!' 
+author-image: '<img src="/static/images/logo.30efce685dc1.png" alt="">'
+author-name: 'Kimetrica' 
+ 
 
 # Build settings
 markdown: kramdown
