@@ -52,7 +52,7 @@ prose:
   rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: '<img src="/static/images/logo.30efce685dc1.png" alt="">'
+  media: <img src="/static/images/logo.30efce685dc1.png" alt="">
   ignore:
     - index.md
     - _config.yml
