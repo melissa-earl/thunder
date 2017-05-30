@@ -23,7 +23,7 @@ color-1: #00a7df
 color-2: #c0392b
 
 # Author pictre 100x100 --> keep it inside img folder.
-author-image: <img src="/static/images/logo.30efce685dc1.png"
+author-image: 
 author-name: Kimetrica
 author-about: For all your code dumping needs!
 
@@ -52,7 +52,7 @@ prose:
   rooturl: ''
   siteurl: 'http://prose.github.io/starter/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: <img src="/static/images/logo.30efce685dc1.png"
+  media: https://www.kimetrica.com/static/images/logo.30efce685dc1.png
   ignore:
     - index.md
     - _config.yml
